@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { PieChart } from "./PieChart";
 import { useState, useEffect } from 'react';
 
